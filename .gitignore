@@ -1,0 +1,3 @@
+# Project exclude paths
+/processor/target/
+/producer/target/
